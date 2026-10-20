@@ -1,0 +1,16 @@
+{
+  "records": 607,
+  "years": 3,
+  "median_salary_usd": 101570.0,
+  "exp_impact": 2.4,
+  "remote_median": 115000.0,
+  "onsite_median": 99000.0,
+  "top_market": "US",
+  "top_gap_pct": 0.0,
+  "us_row": {
+    "median": 135000,
+    "records": 355
+  },
+  "top_role": "Data Architect",
+  "role_spread_pct": 2.36
+}
